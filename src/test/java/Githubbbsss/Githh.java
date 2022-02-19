@@ -11,6 +11,10 @@ public class Githh {
 		System.out.println("This is user2 First commit");
 		
 		System.out.println("This is user1 second commit");
+		
+		System.out.println("This is user2 second commit-git conflict");
+		
+		
 	}
 
 }
