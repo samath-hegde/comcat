@@ -14,6 +14,8 @@ public class Githh {
 		
 		System.out.println("Hi this is user 1 third commit git conflict resolved");
 		
+		System.out.println("user 1 in branch");
+		
 		
 		
 		
